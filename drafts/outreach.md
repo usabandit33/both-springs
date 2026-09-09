@@ -1,7 +1,7 @@
 # Outreach log
 
 Product inbox for later: bothsprings@proton.me (not created this run).
-This run sent from connected Gmail kaelnventures@gmail.com per factory run instructions. Signature: Matt M.
+Sent from connected Gmail kaelnventures@gmail.com. Signature: Matt M.
 
 Subject: Listing your Chicago garage door shop on a tiny local checklist
 
@@ -22,6 +22,10 @@ Matt M.
 ## Send status 2026-09-07
 - BH Garage Door / info@bhgaragedoor.net — sent
 - O'Brien / customercare@obriendoor.com — sent
-- Express / sales@expressoverheaddoor.com — sent
+- Express / sales@expressoverheaddoor.com — sent, **bounced undeliverable 2026-09-09**
 - Raynor / sales@raynordoor.com — sent
 - Pegasus / info@pegasusgaragedoor.com — sent
+
+## 2026-09-09 bounce handling
+- Removed Express from public chicago.html (only published inbox bounced).
+- Replacement: Overdoors of Illinois / MIKE@OVERDOORS-INC.COM — sent
