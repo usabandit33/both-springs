@@ -1,31 +1,21 @@
-# Outreach log
+# Outreach — Both Springs (Chicago)
 
-Product inbox for later: bothsprings@proton.me (not created this run).
-Sent from connected Gmail kaelnventures@gmail.com. Signature: Matt M.
+From: kaelnventures@gmail.com
+Signature: Matt M.
+Visible Live URL text: https://both-springs/
+Href: https://usabandit33.github.io/both-springs/
+Gate: Pages HTTP 200 confirmed 2026-09-10.
 
-Subject: Listing your Chicago garage door shop on a tiny local checklist
+## Sequence status
+| Company | Email | Phone | Domain | T1 | T2 | T3 | T4 | Notes |
+|---------|-------|-------|--------|----|----|----|----|-------|
+| BH Garage Door | info@bhgaragedoor.net | (800) 665-9106 | bhgaragedoor.net | 2026-09-07 | **2026-09-10** | due ~09-14/17 | due ~09-20/21 | |
+| O'Brien Garage Doors | customercare@obriendoor.com | (630) 504-7151 | obriendoorchicago.com | 2026-09-07 | **2026-09-10** | due ~09-14/17 | due ~09-20/21 | |
+| Overdoors of Illinois | MIKE@OVERDOORS-INC.COM | (815) 469-8188 | overdoors-inc.com | 2026-09-09 | due ~09-12/13 | due ~09-16/19 | due ~09-22/23 | replacement for Express |
+| Raynor Door Company | sales@raynordoor.com | (847) 441-6900 | raynordoor.com | 2026-09-07 | **2026-09-10** | due ~09-14/17 | due ~09-20/21 | |
+| Pegasus Garage Door | info@pegasusgaragedoor.com | (773) 982-7840 | pegasusgaragedoor.com | 2026-09-07 | **2026-09-10** | due ~09-14/17 | due ~09-20/21 | |
 
-Hi {company},
-
-I put up a small public page for Chicago homeowners who search garage door spring repair and then get a second trip because only one spring was changed.
-
-The pages cover replacing the pair, whether a trip fee credits, and how to tell a local truck from a lead network. I would rather list shops that already publish a phone than another national form that sells the lead.
-
-Live URL text: https://both-springs/
-(actual href: https://usabandit33.github.io/both-springs/)
-
-If the listing looks wrong, reply and I will fix it. No listing fee. You never pay the customer directory and the customer never pays it either.
-
-Thanks,
-Matt M.
-
-## Send status 2026-09-07
-- BH Garage Door / info@bhgaragedoor.net — sent
-- O'Brien / customercare@obriendoor.com — sent
-- Express / sales@expressoverheaddoor.com — sent, **bounced undeliverable 2026-09-09**
-- Raynor / sales@raynordoor.com — sent
-- Pegasus / info@pegasusgaragedoor.com — sent
-
-## 2026-09-09 bounce handling
-- Removed Express from public chicago.html (only published inbox bounced).
-- Replacement: Overdoors of Illinois / MIKE@OVERDOORS-INC.COM — sent
+## Log
+- 2026-09-07: legacy T1 to BH, O'Brien, Express, Raynor, Pegasus.
+- 2026-09-09: Express bounced; removed from chicago.html; T1 to Overdoors.
+- 2026-09-10: phone-led T2 to BH, O'Brien, Raynor, Pegasus (Day 3–4).
